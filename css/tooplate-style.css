@@ -11,6 +11,7 @@ body {
   font-size: 17px;
   color: #626262;
   overflow-x: hidden;
+  text-align: center;
 }
 
 textarea {
@@ -319,7 +320,8 @@ p:last-child {
 }
 
 .nav-tabs .nav-link.tm-no-border-right {
-  border-right: none;
+  margin: 0 auto;
+  width: 50%;
 }
 
 #tmCompanyTab .nav-item {
