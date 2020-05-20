@@ -306,6 +306,7 @@ p:last-child {
 }
 
 .tm-company-right-inner {
+  right:50%;
   border: 1px solid #c7c7c7;
 }
 
@@ -320,8 +321,7 @@ p:last-child {
 }
 
 .nav-tabs .nav-link.tm-no-border-right {
-  margin: 0 auto;
-  width: 50%;
+  border-right: none;
 }
 
 #tmCompanyTab .nav-item {
